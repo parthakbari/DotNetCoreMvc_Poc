@@ -1,0 +1,15 @@
+﻿@model List<ModelVariant>
+<ul class="list-group">
+    @foreach (var modelrecords in Model)
+    {
+        <li class="list-group-item" id="MakeList" value=@modelrecords.ModelId name="@modelrecords.ModelName">
+            <a href="#">
+                <div class="list-group">
+                    <span class="make-sprite"></span>
+                    <i></i>
+                </div>
+            </a>
+            <p class="make-name">@modelrecords.ModelName</p>
+        </li>
+    }
+</ul>

@@ -1,0 +1,13 @@
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\HegicMvc_Poc.deps.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.dev.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\HegicMvc_Poc.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\HegicMvc_Poc.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\Hegic.Core.Common.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\x64\Release\netcoreapp2.0\Hegic.Core.Common.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.csprojResolveAssemblyReference.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.csproj.CoreCompileInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.AssemblyInfoInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.AssemblyInfo.cs
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\x64\Release\netcoreapp2.0\HegicMvc_Poc.pdb

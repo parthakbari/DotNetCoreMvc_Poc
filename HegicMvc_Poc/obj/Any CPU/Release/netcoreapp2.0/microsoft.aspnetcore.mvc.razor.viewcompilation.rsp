@@ -1,0 +1,16 @@
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=HegicMvc_Poc
+--content-root=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Home\About.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Home\Contact.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Home\Index.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\Error.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\_Layout.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\Error.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\Index.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\_MakeList.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\_ModelList.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\_ViewImports.cshtml
+--file=C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\Views\_ViewStart.cshtml

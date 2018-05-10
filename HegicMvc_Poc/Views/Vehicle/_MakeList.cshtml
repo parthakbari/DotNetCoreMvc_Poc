@@ -1,0 +1,15 @@
+﻿@model List<NameValueData>
+<ul class="list-group">
+    @foreach (var make in Model)
+    {
+        <li class="list-group-item" id="MakeList" value=@make.Value name="@make.Name" originalName="@make.OriginalName.Replace(" ", "").Replace(".", "").Replace("&","").ToLowerInvariant()">
+            <a href="#">
+                <div class="list-group">
+                    <span class="make-sprite logo-@make.OriginalName.Replace(" ", "").Replace(".", "").Replace("&","").ToLowerInvariant()"></span>
+                    <i></i>
+                </div>
+            </a>
+            <p class="make-name">@make.Name</p>
+        </li>
+    }
+</ul>

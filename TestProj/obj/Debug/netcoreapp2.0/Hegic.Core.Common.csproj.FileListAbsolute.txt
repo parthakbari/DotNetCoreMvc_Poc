@@ -1,0 +1,18 @@
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.deps.json
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.pdb
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.csprojResolveAssemblyReference.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.AssemblyInfoInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.AssemblyInfo.cs
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.deps.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\Hegic.Core.Common.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.csprojResolveAssemblyReference.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.csproj.CoreCompileInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.AssemblyInfoInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.AssemblyInfo.cs
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\Hegic.Core.Common.pdb

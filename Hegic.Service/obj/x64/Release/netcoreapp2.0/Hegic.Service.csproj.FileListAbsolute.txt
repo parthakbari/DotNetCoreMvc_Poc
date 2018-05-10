@@ -1,0 +1,11 @@
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\bin\x64\Release\netcoreapp2.0\Hegic.Service.deps.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\bin\x64\Release\netcoreapp2.0\Hegic.Service.runtimeconfig.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\bin\x64\Release\netcoreapp2.0\Hegic.Service.runtimeconfig.dev.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\bin\x64\Release\netcoreapp2.0\Hegic.Service.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\bin\x64\Release\netcoreapp2.0\Hegic.Service.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.csprojResolveAssemblyReference.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.csproj.CoreCompileInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.AssemblyInfoInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.AssemblyInfo.cs
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\Hegic.Service\obj\x64\Release\netcoreapp2.0\Hegic.Service.pdb

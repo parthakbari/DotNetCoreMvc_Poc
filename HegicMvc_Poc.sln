@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HegicMvc_Poc", "HegicMvc_Poc\HegicMvc_Poc.csproj", "{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hegic.Core.Common", "TestProj\Hegic.Core.Common.csproj", "{FB8BF83B-D708-4F0F-8D04-305E088E9288}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hegic.Service", "Hegic.Service\Hegic.Service.csproj", "{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Debug|x64.ActiveCfg = Debug|x64
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Debug|x64.Build.0 = Debug|x64
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Release|x64.ActiveCfg = Release|x64
+		{63BC8F73-9EA0-4ED4-A8E9-9144DE419A02}.Release|x64.Build.0 = Release|x64
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Debug|x64.ActiveCfg = Debug|x64
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Debug|x64.Build.0 = Debug|x64
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Release|x64.ActiveCfg = Release|x64
+		{FB8BF83B-D708-4F0F-8D04-305E088E9288}.Release|x64.Build.0 = Release|x64
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Debug|x64.ActiveCfg = Debug|x64
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Debug|x64.Build.0 = Debug|x64
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Release|x64.ActiveCfg = Release|x64
+		{DB871FA5-3A0D-4A0A-B490-319E6E29BF8A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7742E119-6FE9-41B3-A457-809B26A6A071}
+	EndGlobalSection
+EndGlobal

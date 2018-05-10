@@ -1,0 +1,16 @@
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc
+--output-path=obj\x64\Release\netcoreapp2.0\
+--application-name=HegicMvc_Poc
+--content-root=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Home\About.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Home\Contact.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Home\Index.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\Error.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\_Layout.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\Error.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\Index.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\_MakeList.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\Vehicle\_ModelList.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\_ViewImports.cshtml
+--file=D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\Views\_ViewStart.cshtml

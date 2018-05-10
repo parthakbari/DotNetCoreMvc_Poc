@@ -1,0 +1,26 @@
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.deps.json
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.json
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.dev.json
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.pdb
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\Hegic.Core.Common.pdb
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.csprojResolveAssemblyReference.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.csproj.CoreCompileInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.AssemblyInfoInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.AssemblyInfo.cs
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.csprojResolveAssemblyReference.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.csproj.CoreCompileInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.AssemblyInfoInputs.cache
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.AssemblyInfo.cs
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.deps.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.runtimeconfig.dev.json
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\HegicMvc_Poc.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\Hegic.Core.Common.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\bin\Debug\netcoreapp2.0\Hegic.Core.Common.pdb
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.dll
+D:\Parth\Projects\HegicMVC_2\My Details\Health\HegicMvc_Poc\HegicMvc_Poc\obj\Debug\netcoreapp2.0\HegicMvc_Poc.pdb

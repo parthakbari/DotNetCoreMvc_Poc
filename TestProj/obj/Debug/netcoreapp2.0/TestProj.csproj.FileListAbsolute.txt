@@ -1,0 +1,9 @@
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\TestProj.deps.json
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\TestProj.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.csprojResolveAssemblyReference.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.AssemblyInfoInputs.cache
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.AssemblyInfo.cs
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\bin\Debug\netcoreapp2.0\TestProj.pdb
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.dll
+C:\Users\morianki\Documents\Visual Studio 2017\Project\HegicMvc_Poc\TestProj\obj\Debug\netcoreapp2.0\TestProj.pdb
